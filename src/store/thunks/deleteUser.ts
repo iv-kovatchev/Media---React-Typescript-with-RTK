@@ -1,0 +1,1 @@
+import { createAsyncThunk } from '@reduxjs/toolkit';import axios from 'axios';import { URL } from '../index';import { pause } from './utils';const deleteUser = createAsyncThunk(`/users/delete`, async (userId: string) => {  await axios.delete(URL + `/users/${userId}`);  await pause(1500);  return userId;});export { deleteUser };

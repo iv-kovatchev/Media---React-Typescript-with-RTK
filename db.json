@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "759a",
+      "name": "Hattie Ondricka"
+    },
+    {
+      "id": "3559",
+      "name": "Trevor Armstrong III"
+    },
+    {
+      "id": "6548",
+      "name": "Wade Cummings Jr."
+    }
+  ],
+  "albums": [
+    {
+      "id": "b90e",
+      "userId": null,
+      "title": "Licensed Soft Pants"
+    },
+    {
+      "id": "794a",
+      "userId": null,
+      "title": "Sleek Rubber Mouse"
+    },
+    {
+      "id": "73b5",
+      "userId": null,
+      "title": "Unbranded Cotton Towels"
+    },
+    {
+      "id": "e17b",
+      "userId": null,
+      "title": "Ergonomic Steel Sausages"
+    },
+    {
+      "id": "3e58",
+      "userId": null,
+      "title": "Small Wooden Table"
+    },
+    {
+      "id": "6867",
+      "userId": "759a",
+      "title": "Incredible Metal Cheese"
+    },
+    {
+      "id": "32a3",
+      "userId": "759a",
+      "title": "Generic Bronze Salad"
+    }
+  ],
+  "photos": [
+    {
+      "id": "4afe",
+      "albumId": "6867",
+      "url": "https://loremflickr.com/150/150/abstract?lock=19662"
+    },
+    {
+      "id": "b296",
+      "albumId": "6867",
+      "url": "https://loremflickr.com/150/150/abstract?lock=32874"
+    },
+    {
+      "id": "1e2a",
+      "albumId": "6867",
+      "url": "https://loremflickr.com/150/150/abstract?lock=74649"
+    },
+    {
+      "id": "9b60",
+      "albumId": "6867",
+      "url": "https://loremflickr.com/150/150/abstract?lock=72788"
+    },
+    {
+      "id": "dc88",
+      "albumId": "6867",
+      "url": "https://loremflickr.com/150/150/abstract?lock=70835"
+    },
+    {
+      "id": "5a55",
+      "albumId": "6867",
+      "url": "https://loremflickr.com/150/150/abstract?lock=12717"
+    },
+    {
+      "id": "67fb",
+      "albumId": "6867",
+      "url": "https://loremflickr.com/150/150/abstract?lock=94069"
+    },
+    {
+      "id": "02f7",
+      "albumId": "6867",
+      "url": "https://loremflickr.com/150/150/abstract?lock=15695"
+    }
+  ]
+}
